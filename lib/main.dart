@@ -1,3 +1,4 @@
+import 'package:dooit/presentation/screens/main_screen.dart';
 import 'package:dooit/presentation/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:kakao_flutter_sdk_user/kakao_flutter_sdk_user.dart';
